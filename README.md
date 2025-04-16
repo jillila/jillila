@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🤓 In 2025, I am reskiling to pivot my career back to the tech world, after 10 years working in product for banks
+- 🌱 I’m currently taking (and loving!) the 100 days of Code: The complete Pyton Pro bootcamp on Udemy; In addition, I've taken a bunch of courses on AI to catch up with the rest of you!
+- 🕰️ I first learned to code with Java, C++ and HTML but that was a LONG time ago and the tech world has changed a LOT 
